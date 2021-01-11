@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 💻 Mirim girls' high school student
 - 🔭 I’m currently working on [Perseus](https://cyberperseus.com) (It is Enterprise that has a skill about hypervisor)
-- 🌱 I’m currently learning Linux Kernel, C, C++,  node.js, mongo DB
+- 🌱 I’m currently learning Linux Kernel, C, C++,  node.js, mongo DB, machine learning yahac
 - 👯 I’m looking to collaborate on studying Linux Kernel
 - 🤔 I’m looking for help with how to use github :-(
 - 📂I mainly use C, java, javascript.
