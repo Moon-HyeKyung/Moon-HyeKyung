@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHyekyung&layout=compact)](https://github.com/MoonHyekyung/MoonHyekyung)   
-![Hyekyung's github stats](https://github-readme-stats.vercel.app/api?username=MoonHyekyung&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-HyeKyung&layout=compact)](https://github.com/Moon-HyeKyung/Moon-HyeKyung)   
+![Hyekyung's github stats](https://github-readme-stats.vercel.app/api?username=Moon-HyeKyung&show_icons=true)
 
 <!--
 **Moon-HyeKyung/Moon-HyeKyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
